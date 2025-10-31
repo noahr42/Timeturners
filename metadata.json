@@ -1,0 +1,5 @@
+{
+  "name": "Timeturners",
+  "description": "A sleek and professional time tracking application to monitor work sessions. Start and stop the timer to log your work, and view a detailed report of all your sessions. Your data is saved locally for persistence.",
+  "requestFramePermissions": []
+}
